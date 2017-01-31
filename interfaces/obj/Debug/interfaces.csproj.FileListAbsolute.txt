@@ -1,0 +1,6 @@
+C:\code\csharppininous\interfaces\bin\Debug\interfaces.exe.config
+C:\code\csharppininous\interfaces\bin\Debug\interfaces.exe
+C:\code\csharppininous\interfaces\bin\Debug\interfaces.pdb
+C:\code\csharppininous\interfaces\obj\Debug\interfaces.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\interfaces\obj\Debug\interfaces.exe
+C:\code\csharppininous\interfaces\obj\Debug\interfaces.pdb
