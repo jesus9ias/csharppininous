@@ -1,0 +1,5 @@
+C:\code\csharppininous\list\bin\Debug\list.exe.config
+C:\code\csharppininous\list\bin\Debug\list.exe
+C:\code\csharppininous\list\bin\Debug\list.pdb
+C:\code\csharppininous\list\obj\Debug\list.exe
+C:\code\csharppininous\list\obj\Debug\list.pdb

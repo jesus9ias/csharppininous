@@ -1,0 +1,6 @@
+C:\code\csharppininous\structs\bin\Debug\structs.exe.config
+C:\code\csharppininous\structs\bin\Debug\structs.exe
+C:\code\csharppininous\structs\bin\Debug\structs.pdb
+C:\code\csharppininous\structs\obj\Debug\structs.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\structs\obj\Debug\structs.exe
+C:\code\csharppininous\structs\obj\Debug\structs.pdb
