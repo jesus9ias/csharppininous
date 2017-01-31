@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "list", "list\list.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structs", "structs\structs.csproj", "{F236F058-C318-4B9B-9B13-A3E1C566624C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structs2", "structs2\structs2.csproj", "{22ABA0F0-053E-48DF-8549-4806D4F858AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{F236F058-C318-4B9B-9B13-A3E1C566624C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F236F058-C318-4B9B-9B13-A3E1C566624C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F236F058-C318-4B9B-9B13-A3E1C566624C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22ABA0F0-053E-48DF-8549-4806D4F858AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22ABA0F0-053E-48DF-8549-4806D4F858AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22ABA0F0-053E-48DF-8549-4806D4F858AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22ABA0F0-053E-48DF-8549-4806D4F858AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
