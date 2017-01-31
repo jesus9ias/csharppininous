@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structs", "structs\structs.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structs2", "structs2\structs2.csproj", "{22ABA0F0-053E-48DF-8549-4806D4F858AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oneMigration", "oneMigration\oneMigration.csproj", "{6A32AECF-31C8-4954-9542-5074AA4F8B55}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{22ABA0F0-053E-48DF-8549-4806D4F858AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22ABA0F0-053E-48DF-8549-4806D4F858AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22ABA0F0-053E-48DF-8549-4806D4F858AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A32AECF-31C8-4954-9542-5074AA4F8B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A32AECF-31C8-4954-9542-5074AA4F8B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A32AECF-31C8-4954-9542-5074AA4F8B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A32AECF-31C8-4954-9542-5074AA4F8B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

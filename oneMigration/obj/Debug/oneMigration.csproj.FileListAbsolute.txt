@@ -1,0 +1,13 @@
+C:\code\csharppininous\oneMigration\bin\Debug\oneMigration.exe.config
+C:\code\csharppininous\oneMigration\bin\Debug\oneMigration.exe
+C:\code\csharppininous\oneMigration\bin\Debug\oneMigration.pdb
+C:\code\csharppininous\oneMigration\obj\Debug\oneMigration.exe
+C:\code\csharppininous\oneMigration\obj\Debug\oneMigration.pdb
+C:\code\csharppininous\oneMigration\bin\Debug\EntityFramework.dll
+C:\code\csharppininous\oneMigration\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\csharppininous\oneMigration\bin\Debug\EntityFramework.xml
+C:\code\csharppininous\oneMigration\bin\Debug\EntityFramework.SqlServer.xml
+C:\code\csharppininous\oneMigration\obj\Debug\oneMigration.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\oneMigration\obj\Debug\oneMigration.Migrations.InitialCreate.resources
+C:\code\csharppininous\oneMigration\obj\Debug\oneMigration.csproj.GenerateResource.Cache
+C:\code\csharppininous\oneMigration\obj\Debug\oneMigration.Migrations.postFavorites.resources

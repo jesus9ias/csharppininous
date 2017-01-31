@@ -4,3 +4,7 @@ C:\code\csharppininous\prime\bin\Debug\prime.pdb
 C:\code\csharppininous\prime\obj\Debug\prime.csprojResolveAssemblyReference.cache
 C:\code\csharppininous\prime\obj\Debug\prime.exe
 C:\code\csharppininous\prime\obj\Debug\prime.pdb
+C:\code\csharppininous\prime\bin\Debug\EntityFramework.dll
+C:\code\csharppininous\prime\bin\Debug\EntityFramework.SqlServer.dll
+C:\code\csharppininous\prime\bin\Debug\EntityFramework.xml
+C:\code\csharppininous\prime\bin\Debug\EntityFramework.SqlServer.xml
