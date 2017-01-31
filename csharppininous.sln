@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readfile", "readfile\readfi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cycle", "cycle\cycle.csproj", "{4D120394-D2C0-45DB-9D76-5D4A11705DC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prime", "prime\prime.csproj", "{195FDE3F-DD01-46E6-A28E-67BBFBC60C9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4D120394-D2C0-45DB-9D76-5D4A11705DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D120394-D2C0-45DB-9D76-5D4A11705DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D120394-D2C0-45DB-9D76-5D4A11705DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{195FDE3F-DD01-46E6-A28E-67BBFBC60C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{195FDE3F-DD01-46E6-A28E-67BBFBC60C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{195FDE3F-DD01-46E6-A28E-67BBFBC60C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{195FDE3F-DD01-46E6-A28E-67BBFBC60C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

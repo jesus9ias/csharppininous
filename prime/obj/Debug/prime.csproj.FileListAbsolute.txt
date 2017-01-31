@@ -1,0 +1,6 @@
+C:\code\csharppininous\prime\bin\Debug\prime.exe.config
+C:\code\csharppininous\prime\bin\Debug\prime.exe
+C:\code\csharppininous\prime\bin\Debug\prime.pdb
+C:\code\csharppininous\prime\obj\Debug\prime.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\prime\obj\Debug\prime.exe
+C:\code\csharppininous\prime\obj\Debug\prime.pdb
