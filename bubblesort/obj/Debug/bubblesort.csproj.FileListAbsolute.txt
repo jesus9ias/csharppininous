@@ -1,0 +1,6 @@
+C:\code\csharppininous\bubblesort\bin\Debug\bubblesort.exe.config
+C:\code\csharppininous\bubblesort\bin\Debug\bubblesort.exe
+C:\code\csharppininous\bubblesort\bin\Debug\bubblesort.pdb
+C:\code\csharppininous\bubblesort\obj\Debug\bubblesort.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\bubblesort\obj\Debug\bubblesort.exe
+C:\code\csharppininous\bubblesort\obj\Debug\bubblesort.pdb

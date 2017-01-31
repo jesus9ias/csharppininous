@@ -1,0 +1,5 @@
+C:\code\csharppininous\cycle\bin\Debug\cycle.exe.config
+C:\code\csharppininous\cycle\bin\Debug\cycle.exe
+C:\code\csharppininous\cycle\bin\Debug\cycle.pdb
+C:\code\csharppininous\cycle\obj\Debug\cycle.exe
+C:\code\csharppininous\cycle\obj\Debug\cycle.pdb

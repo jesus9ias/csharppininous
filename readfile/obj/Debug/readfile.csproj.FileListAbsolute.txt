@@ -1,0 +1,5 @@
+C:\code\csharppininous\readfile\bin\Debug\readfile.exe.config
+C:\code\csharppininous\readfile\bin\Debug\readfile.exe
+C:\code\csharppininous\readfile\bin\Debug\readfile.pdb
+C:\code\csharppininous\readfile\obj\Debug\readfile.exe
+C:\code\csharppininous\readfile\obj\Debug\readfile.pdb

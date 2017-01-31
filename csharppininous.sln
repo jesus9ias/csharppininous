@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bubblesort", "bubblesort\bubblesort.csproj", "{83397CA0-4E91-47FC-817D-947B3F08EAAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "readfile", "readfile\readfile.csproj", "{CDB66B02-DEA4-4A38-9406-C60657631568}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cycle", "cycle\cycle.csproj", "{4D120394-D2C0-45DB-9D76-5D4A11705DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83397CA0-4E91-47FC-817D-947B3F08EAAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83397CA0-4E91-47FC-817D-947B3F08EAAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83397CA0-4E91-47FC-817D-947B3F08EAAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83397CA0-4E91-47FC-817D-947B3F08EAAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDB66B02-DEA4-4A38-9406-C60657631568}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDB66B02-DEA4-4A38-9406-C60657631568}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDB66B02-DEA4-4A38-9406-C60657631568}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDB66B02-DEA4-4A38-9406-C60657631568}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D120394-D2C0-45DB-9D76-5D4A11705DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D120394-D2C0-45DB-9D76-5D4A11705DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D120394-D2C0-45DB-9D76-5D4A11705DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D120394-D2C0-45DB-9D76-5D4A11705DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
