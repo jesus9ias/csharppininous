@@ -60,7 +60,7 @@ namespace interfaces
 
             decimal res = 0;
 
-            Operations ops = new Operations(x, y);
+            IOperations ops = new Operations(x, y);
 
             switch (op)
             {

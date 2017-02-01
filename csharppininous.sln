@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oneMigration", "oneMigratio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaces", "interfaces\interfaces.csproj", "{9DC982DA-1EE2-49A8-9A1C-AF7818D22024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "overrides", "overrides\overrides.csproj", "{D365F725-D73B-4EED-8684-47E0C24DDDFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{9DC982DA-1EE2-49A8-9A1C-AF7818D22024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DC982DA-1EE2-49A8-9A1C-AF7818D22024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DC982DA-1EE2-49A8-9A1C-AF7818D22024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D365F725-D73B-4EED-8684-47E0C24DDDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D365F725-D73B-4EED-8684-47E0C24DDDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D365F725-D73B-4EED-8684-47E0C24DDDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D365F725-D73B-4EED-8684-47E0C24DDDFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

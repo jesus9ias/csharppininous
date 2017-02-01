@@ -1,0 +1,6 @@
+C:\code\csharppininous\overrides\bin\Debug\overrides.exe.config
+C:\code\csharppininous\overrides\bin\Debug\overrides.exe
+C:\code\csharppininous\overrides\bin\Debug\overrides.pdb
+C:\code\csharppininous\overrides\obj\Debug\overrides.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\overrides\obj\Debug\overrides.exe
+C:\code\csharppininous\overrides\obj\Debug\overrides.pdb
