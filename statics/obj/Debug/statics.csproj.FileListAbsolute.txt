@@ -1,0 +1,6 @@
+C:\code\csharppininous\statics\bin\Debug\statics.exe.config
+C:\code\csharppininous\statics\bin\Debug\statics.exe
+C:\code\csharppininous\statics\bin\Debug\statics.pdb
+C:\code\csharppininous\statics\obj\Debug\statics.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\statics\obj\Debug\statics.exe
+C:\code\csharppininous\statics\obj\Debug\statics.pdb
