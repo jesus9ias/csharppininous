@@ -1,0 +1,6 @@
+C:\code\csharppininous\abstracts\bin\Debug\abstracts.exe.config
+C:\code\csharppininous\abstracts\bin\Debug\abstracts.exe
+C:\code\csharppininous\abstracts\bin\Debug\abstracts.pdb
+C:\code\csharppininous\abstracts\obj\Debug\abstracts.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\abstracts\obj\Debug\abstracts.exe
+C:\code\csharppininous\abstracts\obj\Debug\abstracts.pdb
