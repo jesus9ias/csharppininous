@@ -1,0 +1,6 @@
+C:\code\csharppininous\properties\bin\Debug\properties.exe.config
+C:\code\csharppininous\properties\obj\Debug\properties.csprojResolveAssemblyReference.cache
+C:\code\csharppininous\properties\bin\Debug\properties.exe
+C:\code\csharppininous\properties\bin\Debug\properties.pdb
+C:\code\csharppininous\properties\obj\Debug\properties.exe
+C:\code\csharppininous\properties\obj\Debug\properties.pdb
