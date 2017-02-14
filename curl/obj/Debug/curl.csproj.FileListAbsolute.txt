@@ -1,0 +1,6 @@
+C:\code\csharppininous\curl\bin\Debug\curl.exe.config
+C:\code\csharppininous\curl\bin\Debug\curl.exe
+C:\code\csharppininous\curl\bin\Debug\curl.pdb
+C:\code\csharppininous\curl\obj\Debug\curl.exe
+C:\code\csharppininous\curl\obj\Debug\curl.pdb
+C:\code\csharppininous\curl\obj\Debug\curl.csprojResolveAssemblyReference.cache
