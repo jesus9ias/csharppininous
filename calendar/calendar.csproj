@@ -203,6 +203,7 @@
     <Compile Include="Models\CalendarCreator.cs" />
     <Compile Include="Models\CalendarVM.cs" />
     <Compile Include="Models\CurrentDateVM.cs" />
+    <Compile Include="Models\Months.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>

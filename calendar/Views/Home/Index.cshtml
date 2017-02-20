@@ -1,12 +1,60 @@
-﻿@model calendar.Models.BigCalendar
+﻿@using calendar.Models;
+@model calendar.Models.BigCalendar
 
 @{
     ViewBag.Title = "Calendar";
-    ViewBag.counter = 0;
+    ViewBag.Months = Enum.GetValues(typeof(Months));
 }
 
 
 <div class="row">
+
+    <form action="">
+        <select name="year">
+            @for (var y = Model.calendar.year - 10; y <= Model.calendar.year + 10; y++)
+            {
+                if (y == Model.calendar.year)
+                {
+                    <option value="@y" selected="selected">@y</option>
+                }
+                else
+                {
+                    <option value="@y">@y</option>
+                }
+            }
+        </select>
+        <select name="month">
+            @foreach (Months m in ViewBag.Months)
+            {
+                int x = (int)m;
+                if (x == Model.calendar.month)
+                {
+                    <option value="@x" selected="selected">@m</option>
+                }
+                else
+                {
+                    <option value="@x">@m</option>
+                }
+
+            }
+        </select>
+        <select name="day">
+            @for (var d = 1; d <= 31; d++)
+            {
+                if (d == Model.calendar.day)
+                {
+                    <option value="@d" selected="selected">@d</option>
+                }
+                else
+                {
+                    <option value="@d">@d</option>
+                }
+            }
+        </select>
+        <input type="submit" value="Refresh" />
+    </form>
+        
+
     <a class="btn btn-link" href="/Home/Index?year=@Model.prevYear&month=@Model.prevMonth">Prev</a>
     <a class="btn btn-link" href="/Home/Index?year=@Model.nextYear&month=@Model.nextMonth">Next</a>
 
@@ -28,8 +76,16 @@
                 {
                     if (j >= Model.calendar.oneWeakDay + 1)
                     {
-                        <td>@(j - Model.calendar.oneWeakDay)</td>
-                    } else
+                        if (j - Model.calendar.oneWeakDay == Model.calendar.day)
+                        {
+                            <td class="today">@(j - Model.calendar.oneWeakDay)</td>
+                        }
+                        else
+                        {
+                            <td>@(j - Model.calendar.oneWeakDay)</td>
+                        }
+                    }
+                    else
                     {
                         <td></td>
                     }
