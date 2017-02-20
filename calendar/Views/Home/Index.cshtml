@@ -1,0 +1,46 @@
+﻿@model calendar.Models.BigCalendar
+
+@{
+    ViewBag.Title = "Calendar";
+    ViewBag.counter = 0;
+}
+
+
+<div class="row">
+    <a class="btn btn-link" href="/Home/Index?year=@Model.prevYear&month=@Model.prevMonth">Prev</a>
+    <a class="btn btn-link" href="/Home/Index?year=@Model.nextYear&month=@Model.nextMonth">Next</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <td>Sunday</td>
+                <td>Monday</td>
+                <td>Thuesday</td>
+                <td>Wednesday</td>
+                <td>Thursday</td>
+                <td>Friday</td>
+                <td>Saturday</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                @for (var j = 1; j <= (Model.calendar.monthDays + Model.calendar.oneWeakDay); j++)
+                {
+                    if (j >= Model.calendar.oneWeakDay + 1)
+                    {
+                        <td>@(j - Model.calendar.oneWeakDay)</td>
+                    } else
+                    {
+                        <td></td>
+                    }
+                    if (j % 7 == 0)
+                    {
+                       @:</tr><tr>
+                    }
+                }
+
+            </tr>
+        </tbody>
+    </table>
+    
+</div>
