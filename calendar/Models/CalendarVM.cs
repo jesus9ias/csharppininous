@@ -9,6 +9,13 @@ namespace calendar.Models
 {
     public class CalendarVM
     {
+        public DateTime today
+        {
+            get
+            {
+                return DateTime.Now;
+            }
+        }
         public int year { get; set; }
         public int month { get; set; }
         public int day { get; set; }

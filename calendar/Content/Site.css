@@ -23,6 +23,10 @@ textarea {
     max-width: 280px;
 }
 
+.currentDay {
+    border: 1px solid blue;
+}
+
 .today {
     border: 1px solid red;
 }

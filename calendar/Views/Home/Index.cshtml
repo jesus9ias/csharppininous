@@ -78,6 +78,10 @@
                     {
                         if (j - Model.calendar.oneWeakDay == Model.calendar.day)
                         {
+                            <td class="currentDay">@(j - Model.calendar.oneWeakDay)</td>
+                        }
+                        else if (j - Model.calendar.oneWeakDay == Model.calendar.today.Day && Model.calendar.month == Model.calendar.today.Month && Model.calendar.year == Model.calendar.today.Year)
+                        {
                             <td class="today">@(j - Model.calendar.oneWeakDay)</td>
                         }
                         else
