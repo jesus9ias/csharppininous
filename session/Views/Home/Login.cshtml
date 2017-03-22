@@ -1,0 +1,26 @@
+﻿@{
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div>
+        <form action="/Home/DoLogin" method="post">
+            <div class="input-group">
+                <span class="input-group-addon" id="basic-addon1">User</span>
+                <input type="text" class="form-control" name="User" placeholder="User" aria-describedby="basic-addon1">
+            </div>
+            <div class="input-group">
+                <span class="input-group-addon" id="basic-addon1">Password</span>
+                <input type="text" class="form-control" name="Password" placeholder="Password" aria-describedby="basic-addon1">
+            </div>
+            <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+    </div>
+</body>
+</html>

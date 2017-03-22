@@ -1,0 +1,15 @@
+﻿@using System.Web.SessionState
+
+@if (Session.Contents["isLogued"].ToString() == "true")
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Profile", "Profile", "Home")</li>
+        <li>@Html.ActionLink("Logout", "Logout", "Home")</li>
+    </ul>
+}
+else
+{
+    <ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Login", "Login", "Home")</li>
+    </ul>
+}
